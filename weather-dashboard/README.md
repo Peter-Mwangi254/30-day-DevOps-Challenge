@@ -98,21 +98,13 @@ python src/weather_dashboard.py
 ## Screenshots
 
 ### Weather Dashboard Output:
-![Weather Dashboard Example]()
+![Weather Dashboard Output](./image.png)
 
 ### AWS S3 Bucket:
-![AWS S3 Example](https://via.placeholder.com/600x400.png?text=AWS+S3+Example)
+![AWS S3 Bucket](./S3_bucket.png)
 
 ---
 
-## Deployment
 
-This project can be deployed using [Vercel](https://vercel.com):
-
-1. Set up a Vercel account and link your repository.
-2. Define environment variables for the project.
-3. Configure build settings for Python applications.
-
----
 
 Feel free to contribute to the project by raising issues or submitting pull requests!
