@@ -51,8 +51,8 @@ game-day-notifications/
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
-cd game-day-notifications
+git clone https://github.com/Peter-Mwangi254/30-day-DevOps-Challenge/tree/main/NBA-Game-Day-Notification
+cd NBA-Game-Day-Notification
 ```
 
 ### **Create an SNS Topic**
