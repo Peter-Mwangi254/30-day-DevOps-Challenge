@@ -9,6 +9,9 @@ Uploads sample NBA data (JSON format) to the S3 bucket.
 Creates an AWS Glue database and an external table for querying the data.
 Configures Amazon Athena for querying data stored in the S3 bucket.
 
+## **Technical Architecture**
+![nba_API](./images/Data_Lake%20Architecture%20.png)
+
 # Prerequisites
 Before running the script, ensure you have the following:
 
@@ -48,7 +51,7 @@ nano setup_nba_data_lake.py
 ```
 
 
-2. In another window, go to [GitHub](https://github.com/alahl1/NBADataLake)
+2. In another window, go to [GitHub](https://github.com/Peter-Mwangi254/30-day-DevOps-Challenge/tree/main/NBA-Data-Lake)
 
 -Copy the contents inside the setup_nba_data_lake.py file
 
